@@ -1,6 +1,6 @@
 cask "showmd" do
   version "1.0.0"
-  sha256 "REPLACE_WITH_SHA256_AFTER_FIRST_RELEASE"
+  sha256 "315ac679a296facef4f81e86980a5135c203204e0510c10f423e982b4a0a831e"
 
   url "https://github.com/johannesnagl/showmd/releases/download/v#{version}/showmd-#{version}.zip"
   name "showmd"
