@@ -7,7 +7,7 @@ cask "holdor" do
   desc "Menu bar app that prevents macOS sleep while AI agents are running"
   homepage "https://holdor.yetanother.one"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
   depends_on arch: :arm64
 
   app "Holdor.app"
